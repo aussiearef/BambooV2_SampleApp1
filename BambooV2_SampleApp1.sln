@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2022
+VisualStudioVersion = 17.9.0
+MinimumVisualStudioVersion = 17.0.0
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchAPI.Tests", "SearchAPI.Tests\SearchAPI.Tests.csproj", "{0BA8C1E9-B465-DC6E-70F4-3A25093D57E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchApi", "SearchApi\SearchApi.csproj", "{BF86C93C-4593-729E-BC0E-37A72EA8C998}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BA8C1E9-B465-DC6E-70F4-3A25093D57E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BA8C1E9-B465-DC6E-70F4-3A25093D57E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BA8C1E9-B465-DC6E-70F4-3A25093D57E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BA8C1E9-B465-DC6E-70F4-3A25093D57E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF86C93C-4593-729E-BC0E-37A72EA8C998}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF86C93C-4593-729E-BC0E-37A72EA8C998}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF86C93C-4593-729E-BC0E-37A72EA8C998}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF86C93C-4593-729E-BC0E-37A72EA8C998}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F553B92-DB9A-4B58-8962-8D0F2A482992}
+	EndGlobalSection
+EndGlobal
